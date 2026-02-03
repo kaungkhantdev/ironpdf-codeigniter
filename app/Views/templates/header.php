@@ -34,7 +34,7 @@
     <link rel="stylesheet" href="assets/css/styles.css">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" href="assets/images/LOGO.png">
+    <link rel="icon" type="image/svg+xml" href="assets/images/logo.svg">
 </head>
 <body>
     <!-- Skip Link for Accessibility -->
@@ -45,7 +45,7 @@
         <nav class="navbar navbar-expand-lg" role="navigation" aria-label="Main navigation">
             <div class="container-fluid px-3 px-md-5">
                 <a href="/" class="navbar-brand logo" aria-label="<?= esc($navigation['brand'] ?? 'Iron Software') ?> - Home">
-                    <img src="assets/images/LOGO.svg" alt="<?= esc($navigation['brand'] ?? 'Iron Software') ?> Logo" width="100" height="20" loading="eager">
+                    <img src="assets/images/logo.svg" alt="<?= esc($navigation['brand'] ?? 'Iron Software') ?> Logo" width="100" height="20" loading="eager">
                 </a>
 
                 <!-- Mobile menu toggle -->
