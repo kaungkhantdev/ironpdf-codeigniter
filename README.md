@@ -81,7 +81,7 @@ All text content is managed through `content.json` in the project root. Edit thi
 ## Technologies Used
 
 - **Framework**: CodeIgniter 4
-- **CSS Framework**: Bootstrap 5.3.3
+- **CSS Framework**: Bootstrap 5.3.8
 - **Fonts**: Gotham (Medium, Bold, Black)
 
 ---
