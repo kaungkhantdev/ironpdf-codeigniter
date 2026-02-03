@@ -6,7 +6,7 @@
                     <div class="col-12">
                         <div class="hero-content container px-3 px-md-5">
                             <div class="hero-logo" aria-hidden="true">
-                                <img src="assets/images/LOGO_PDF.svg" alt="" width="32" height="32" loading="eager">
+                                <img src="assets/images/logo_pdf.svg" alt="" width="32" height="32" loading="eager">
                             </div>
                             <p class="hero-subtitle"><?= esc($hero['subtitle'] ?? '') ?></p>
                             <h1 id="hero-title" class="hero-title"><?= esc($hero['title'] ?? '') ?></h1>
@@ -61,7 +61,7 @@
                     </div>
                     <div class="col-12 d-none d-lg-block">
                         <div class="hero-image-wrapper">
-                            <img src="assets/images/HERO_IMAGE.svg" alt="C++ programming language logo representing IronPDF C++ Beta" class="hero-image img-fluid" loading="eager" fetchpriority="high">
+                            <img src="assets/images/hero_image.svg" alt="C++ programming language logo representing IronPDF C++ Beta" class="hero-image img-fluid" loading="eager" fetchpriority="high">
                         </div>
                     </div>
                 </div>
